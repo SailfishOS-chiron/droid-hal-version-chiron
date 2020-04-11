@@ -1,10 +1,10 @@
 # rpm_device is the name of the ported device
-%define rpm_device sagit
+%define rpm_device chiron
 # rpm_vendor is used in the rpm space
 %define rpm_vendor xiaomi
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Xiaomi
-%define device_pretty Mi 6 (sagit)
+%define device_pretty Mi Mix 2 (chiron)
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
 %define have_led 1
